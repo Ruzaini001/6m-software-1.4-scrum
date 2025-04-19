@@ -15,12 +15,17 @@ Question 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
 
 ```
-1) As a person who wants to borrow specific books, I want to be able to search for the book title in the website, so that I know if such book is available in the library
-2) As a person who prefer eBooks, I want to be able to borrow eBooks from the website as well, so that it will be hassle-free.
-3) As a person who would want my books early, I want to be able to make reservation, so that I am in the queue of receiving the book once someone else has returned.
-4) As a person who borrows multiple books, I want to be able to check the due dates of all my loaned books, so that I can avoid paying overdue fees.
+1) As a user who wants to borrow specific books, I want to be able to search for the book title, author and genre in the website, so that I know which book is available.
+2) As a eBooks user, I want to be able to borrow eBooks from the website as well, so that it will be hassle-free.
+3) As registered user, I want to be able to make reservation, so that I am in the queue of receiving the book once someone else has returned.
+4) As a user who borrows multiple books, I want to be able to check all my loaned books, so that I dont miss out on any of them.
 5) As a person who lives far away from the library, I want to be able to get books delivered to me at my doorstep, so that it will be such a convenience for me.
-6) As a 
+6) As a user who takes longer time to complete a book, I want to be able to renew my loan, so that I can extend my time reading the book.
+7) As a avid reader, I want to have books recommended to me based on my interest and past books loaned, so that I know what to read next.
+8) As a registered user, I want to be able to give review and ratings to certain books, so that I can share my opinion to help others.
+9) As a user who happen to lost or damaged the loaned books, I want to be able to pay the fines or charges, so that I can make ammends for my mistake.
+10)
+
 
 ```
 
