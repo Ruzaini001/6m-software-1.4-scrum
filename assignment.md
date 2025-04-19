@@ -8,15 +8,19 @@ Question 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Implementing Scrum can significantly boost the productivity of an IT team in a school startup by creating a more organized, collaborative, and flexible work environment. As an agile framework, Scrum breaks down large, complex projects into smaller, manageable chunks called sprints (usually 1–2 weeks). This helps the team focus on delivering specific goals quickly and consistently.
+Implementing Scrum can help to increase productivity by creating a more organized, collaborative, and flexible working environment.
 
-Scrum promotes daily stand-up meetings where team members share progress, challenges, and plans for the day. This keeps everyone on the same page and allows for quick identification and resolution of issues, rather than letting them pile up. With clear roles—Product Owner, Scrum Master, and Development Team—each person knows their responsibilities, reducing confusion and unnecessary overlap in tasks.
+With transparency, everyone involved is aware of the team’s progress. For a school startup, it is important that the people in charge, educators, and IT team all have a shared understanding of what’s being built, for example the school portal or scheduling system. Inspection is carried out through frequent reviews and meetings, to catch problems early. Adaptation is about being flexible, adjusting to feedback from teachers or students.
 
-For a school startup, requirements might evolve rapidly due to changing academic needs or user feedback. Scrum allows the team to adapt easily between sprints. For example, if teachers request a new grading feature or students need a more mobile-friendly platform, those requests can be prioritized in the next sprint.
+Scrum also haves 5 core values. Courage is about to admit any troubles faced and seek help. This is useful in startups, where not everything is clear-cut. Focus keeps the team aligned on whats important. Commitment ensures everyone is dedicated to build a functional systems that help the school. Respect and openness helps to create a culture where everyone can collaborate and trust each other. Important in a fast-moving environments.
 
-Scrum also encourages continuous improvement through regular retrospectives, where the team reflects on what worked well and what could be improved. This fosters a culture of learning, ownership, and teamwork.
+There is also clear roles in a scrum team, for example, product owner, scrum master, and development team. Each person knows their responsibilities, reducing confusion and unnecessary overlap in tasks
 
-In short, Scrum helps the IT team work more efficiently, stay aligned with stakeholders, and deliver relevant, high-quality solutions faster—all of which are crucial for the fast-paced environment of a growing school startup.
+Scrum helps to break down large, complex projects into smaller, manageable parts called sprints. Usually 1 to 4 weeks This helps to deliver specific goals quickly and consistently. Scrum also promotes daily meetings where team share progress, challenges, and plans for the day, ensuring everyone on the same page.
+
+In a school startup, sudden change in requirements can occur. Scrum allows the team to adapt easily between sprints. For example, if teachers request that they would want to conduct lesson online on certain days, those requests can be prioritized in the next sprint.
+
+Scrum also encourages continuous improvement through regular retrospectives, where the team reflects on what worked well and what could be improved. 
 
 ```
 
