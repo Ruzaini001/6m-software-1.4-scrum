@@ -8,7 +8,16 @@ Question 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Your answer here
+Implementing Scrum can significantly boost the productivity of an IT team in a school startup by creating a more organized, collaborative, and flexible work environment. As an agile framework, Scrum breaks down large, complex projects into smaller, manageable chunks called sprints (usually 1–2 weeks). This helps the team focus on delivering specific goals quickly and consistently.
+
+Scrum promotes daily stand-up meetings where team members share progress, challenges, and plans for the day. This keeps everyone on the same page and allows for quick identification and resolution of issues, rather than letting them pile up. With clear roles—Product Owner, Scrum Master, and Development Team—each person knows their responsibilities, reducing confusion and unnecessary overlap in tasks.
+
+For a school startup, requirements might evolve rapidly due to changing academic needs or user feedback. Scrum allows the team to adapt easily between sprints. For example, if teachers request a new grading feature or students need a more mobile-friendly platform, those requests can be prioritized in the next sprint.
+
+Scrum also encourages continuous improvement through regular retrospectives, where the team reflects on what worked well and what could be improved. This fosters a culture of learning, ownership, and teamwork.
+
+In short, Scrum helps the IT team work more efficiently, stay aligned with stakeholders, and deliver relevant, high-quality solutions faster—all of which are crucial for the fast-paced environment of a growing school startup.
+
 ```
 
 Question 2:
