@@ -14,9 +14,9 @@ With transparency, everyone involved is aware of the team’s progress. For a sc
 
 Scrum also haves 5 core values. Courage is about to admit any troubles faced and seek help. This is useful in startups, where not everything is clear-cut. Focus keeps the team aligned on whats important. Commitment ensures everyone is dedicated to build a functional systems that help the school. Respect and openness helps to create a culture where everyone can collaborate and trust each other. Important in a fast-moving environments.
 
-There is also clear roles in a scrum team, for example, product owner, scrum master, and development team. Each person knows their responsibilities, reducing confusion and unnecessary overlap in tasks
+There is also clear roles in a scrum team, for example, product owner, scrum master, and development team. Each person knows their responsibilities, reducing confusion and unnecessary overlap in tasks.
 
-Scrum helps to break down large, complex projects into smaller, manageable parts called sprints. Usually 1 to 4 weeks This helps to deliver specific goals quickly and consistently. Scrum also promotes daily meetings where team share progress, challenges, and plans for the day, ensuring everyone on the same page.
+Scrum helps to break down large, complex projects into smaller, manageable parts called sprints. Usually 1 to 4 weeks. This helps to deliver specific goals quickly and consistently. Scrum also promotes daily meetings where team share progress, challenges, and plans for the day, ensuring everyone on the same page.
 
 In a school startup, sudden change in requirements can occur. Scrum allows the team to adapt easily between sprints. For example, if teachers request that they would want to conduct lesson online on certain days, those requests can be prioritized in the next sprint.
 
