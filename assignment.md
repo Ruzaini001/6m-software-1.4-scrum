@@ -18,7 +18,7 @@ There is also clear roles in a scrum team, which includes, product owner, scrum 
 
 Scrum helps to break down large, complex projects into smaller, manageable parts called sprints. Usually 1 to 4 weeks. This helps to deliver specific goals quickly and consistently. Scrum also promotes daily meetings where team share progress, challenges, and plans for the day, ensuring everyone on the same page.
 
-In a school startup, sudden change in requirements can occur. Scrum allows the team to adapt easily between sprints. For example, if teachers request that they would want to conduct lesson online on certain days, those requests can be prioritized in the next sprint.
+In a school startup, sudden change in requirements can occur. Scrum allows the team to adapt easily between sprints. For example, if teachers request their intent to conduct online quiz on certain date, those requests can be prioritized in the next sprint.
 
 Scrum also encourages continuous improvement through regular retrospectives, where the team reflects on what worked well and what could be improved. 
 
