@@ -10,7 +10,7 @@ Imagine you are hired by a startup company for a school to implement their IT in
 ```
 Implementing Scrum can help to increase productivity by creating a more organized, collaborative, and flexible working environment.
 
-With transparency, everyone involved is aware of the team’s progress. For a school startup, it is important that the people in charge, educators, and IT team all have a shared understanding of what’s being built, for example the school portal or scheduling system. Inspection is carried out through frequent reviews and meetings, to catch problems early. Adaptation is about being flexible, adjusting to feedback from teachers or students.
+With transparency, everyone involved is aware of the team’s progress. For a school startup, it is important that those in charge, teachers, and the IT team all have a shared understanding of what’s being built, for example the school portal or scheduling system. Inspection is carried out through frequent reviews and meetings, to catch problems early. Adaptation is about being flexible, adjusting to feedback from teachers or students.
 
 Scrum have 5 core values. Courage encourages people to admit any troubles faced and seek help. This is useful in startups, where not everything is clear-cut. Focus keeps the team aligned on whats important. Commitment ensures everyone is dedicated to build a functional systems that help the school. Respect and openness helps to create a culture where everyone can collaborate and trust each other. Important in a fast-moving environments.
 
