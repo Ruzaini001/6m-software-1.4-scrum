@@ -39,7 +39,6 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 9) As a user who happen to lost or damaged the loaned books, I want to be able to make payment for the fines or charges, so that it can be settled quickly.
 10) As a registered user, I want to receive email/SMS notification for loaned books that are due soon, so that I can the return books on time.
 
-
 ```
 
 Question 3: 
@@ -52,15 +51,15 @@ Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-kn
 
 3)  - If a book is currently loaned out, a "Reserve" button should be there to be clicked.
     - System should add user into reservation queue once "Reserve" is clicked.
-    - Confirmation message will be given after successful reserve
-    - Notification is given via email/SMS when book becomes available
+    - Confirmation message will be given after successful reserve.
+    - Notification is given via email/SMS when book becomes available.
 
-4)  - Logged in user can access "My Borrrowed Books" page
+4)  - Logged in user can access "My Borrrowed Books" page.
     - The page should show all the loaned books as well as their due date.
-    - "Renew" button option is also available
-    - There should be a message to inform that renew is not possible because someone else had made reservation
+    - "Renew" button option is also available.
+    - There should be a message to inform that renew is not possible if someone else had made reservation.
 
-5)  - Users should have the option to select "Deliver to my address" button
+5)  - Users should have the option to select "Deliver to my address" button.
     - Users address should already be recorded in the system after registering as a member.
     - Delivery fee (if any) and confirmation request should be shown before user decided to proceed.
     - Users will receive confirmation once they have accepted as well as estimated delivery time.
@@ -69,10 +68,6 @@ Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-kn
     - "Recommended for you" section can be displayed on the homepage.
     - Book title, cover and brief description should be shown as well.
     - Users are able click on the recommendations to find out more or with the intent of borrowing the book.
-
-
-
-
  
 ```
 
