@@ -64,7 +64,7 @@ Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-kn
     - Delivery fee (if any) and confirmation request should be shown before user decided to proceed.
     - Users will receive confirmation once they have accepted as well as estimated delivery time.
 
-7)  - Systems should have record of books previously borrowed by the user
+7)  - Systems should have record of books previously borrowed by the user.
     - "Recommended for you" section can be displayed on the homepage.
     - Book title, cover and brief description should be shown as well.
     - Users are able click on the recommendations to find out more or with the intent of borrowing the book.
