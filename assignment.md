@@ -30,14 +30,14 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 ```
 1) As a guest/user who is looking for specific books, I want to be able to search for an exact title, author or genre, so that I can get the book I am looking for.
 2) As a eBooks reader, I want to have the option to borrow eBooks, so that it will be more hassle-free.
-3) As registered user, I want to be able to make reservation, so that I am in the queue of receiving the book once its available.
+3) As a registered user, I want to be able to make reservation, so that I am in the queue of receiving the book once its available.
 4) As a registered user who borrows multiple books, I want to be able to check all my loaned books, so that I can keep track on all of them.
 5) As a registered user who lives far away from the library, I want to have the choice of books delivered at my doorstep, so that it will be more convenient.
-6) As a reader who reads at slower pace, I want to be able to renew my loan, so that I can have longer the time reading the book.
+6) As a reader who reads at slower pace, I want to be able to renew my loan, so that I can have longer time reading the book.
 7) As a avid reader, I want to have books recommended to me based on my interest and past books loaned, so that I know what to read next.
 8) As a registered user, I want to be able to give review and ratings to books I loaned, so that I can share my opinion and help others.
 9) As a registered user who happen to lost or damaged the loaned books, I want to be able to make payment for the fines or charges, so that it can be settled quickly.
-10) As a registered user, I want to receive email/SMS notification for loaned books that are due soon, so that I can the return books on time.
+10) As a registered user, I want to receive email/SMS notification for loaned books that are due soon, so that I can return the books on time.
 
 ```
 
@@ -46,7 +46,7 @@ Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-kn
 
 ```
 1)  - Search bar should be accessible at the website.
-    - User able to input keywords such as title of book or author.
+    - User able to input keywords such as title of book or author's name.
     - If no specific title is available, "no results found" message should be shown.
 
 3)  - If a book is currently loaned out, a "Reserve" button should be there to be clicked.
